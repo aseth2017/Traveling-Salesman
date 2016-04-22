@@ -1,0 +1,22 @@
+body {
+		background-color:#a0ffee;
+}
+
+#canvas {
+		background-color:#f388a1;
+		width:600px;
+		height:400px;
+}
+
+Smallest-Increase {
+		float: left;
+		background-color:#FFF;
+		width:100px;
+}
+
+Nearest-Neighbor {
+		margin: 0;
+		float: left;
+		background-color:#FFF;
+		width:100px;	
+}
